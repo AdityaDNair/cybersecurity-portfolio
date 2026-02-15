@@ -8,10 +8,11 @@ Certifications
 - AWS Certified Cloud Practitioner (Planned)
 
 Projects
-- Network Traffic Analysis (Wireshark)
-- Web Application Vulnerability Analysis (Upcoming)
-- AWS Secure Architecture (Upcoming)
-- Incident Response Simulation (Upcoming)
+1. Network Traffic Analysis (Wireshark)
+2. Web Application Vulnerability Analysis
+3. AWS Secure Cloud Architecture
+4. Incident Response Simulation
+5. Web Security Assessment Report
 
 Tools
-Wireshark | Linux | AWS | TryHackMe | Networking | Git
+Wireshark | Linux | AWS | TryHackMe | Burp Suite | Git | Networking
